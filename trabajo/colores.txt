@@ -1,7 +1,0 @@
-1. Azul
-2. Rojo
-3. Verde
-4. Blanco
-5. Negro
-6. Gris
-7. Amarillo
