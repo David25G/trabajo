@@ -1,4 +1,0 @@
-Descripción: Zapatos gucci caros.
-Color: 
-Precio: 90
-Stock: 30
