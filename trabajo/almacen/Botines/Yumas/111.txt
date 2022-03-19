@@ -1,0 +1,4 @@
+Descripcion:  botines para primavera.
+Color: negro
+Stock: 20
+Precio: 30
