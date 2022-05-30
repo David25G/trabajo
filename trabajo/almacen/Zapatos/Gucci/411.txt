@@ -1,4 +1,4 @@
-Descripción: Zapatos gucci caros.
-Color: 
+Descripción: Zapatos gucci nuevos modelos de primavera.
+Color: Verde
 Precio: 90
 Stock: 30

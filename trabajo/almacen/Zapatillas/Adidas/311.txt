@@ -1,0 +1,4 @@
+Descripción: Zapatillas Adidas para running con suela antideslizante, este modelo tiene una durabilidad única.
+Color: Azul
+Precio: 80
+Stock: 22

@@ -1,4 +1,4 @@
-Descripción: Corte en piel vuelta y forro transpirable, con suela de eva que porta ligereza y comodidad.
-Color: Gris
-Precio: 40
-Stock: 65
+Descripcion:  botines para primavera.
+Color: negro
+Stock: 20
+Precio: 30
