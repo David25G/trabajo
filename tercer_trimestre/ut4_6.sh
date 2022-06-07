@@ -1,5 +1,4 @@
 variable=$$
-echo "$$"
 intento=0
 repit(){
 read -p 'Dame un número: ' numero
