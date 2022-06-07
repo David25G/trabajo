@@ -1,4 +1,10 @@
 cd $HOME
+nano parte3.cron
+echo " "
+nano parte3.sh
+echo " "
+nano parte3close.sh
+echo " " 
 touch parte3.cron
 touch parte3.sh
 touch parte3close.sh
